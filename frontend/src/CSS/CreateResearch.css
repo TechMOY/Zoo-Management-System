@@ -1,0 +1,19 @@
+.researchbody {
+  align-items: center;
+  background-color: rgb(253, 253, 253);
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.ResCreate {
+  background-color: 'white';
+}
+
+.formbody {
+  width: 500px;
+}
+.topic {
+  margin: 75px;
+  padding-left: 200px;
+}

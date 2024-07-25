@@ -1,0 +1,16 @@
+.researchbody {
+    align-items: center;
+    background-color: rgb(253, 253, 253);
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+  }
+ 
+  .formbody1{
+      width:500px;
+      padding-left: 10px;
+      
+  }
+  .topic1{
+   margin :75px;
+  }

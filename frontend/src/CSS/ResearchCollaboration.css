@@ -1,0 +1,33 @@
+.researchbody {
+  align-items: center;
+  background-color: rgb(253, 253, 253);
+  display: flex;
+  justify-content: center;
+}
+#researchcol {
+  background-color: white;
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 23px;
+  margin-bottom: 310px;
+}
+
+.formbody {
+  width: 500px;
+}
+.topic {
+  margin: 75px;
+  padding-left: 200px;
+}
+.backgimagem {
+  background-color: white;
+  /* background-image: url(https://wallpapercrafter.com/th800/455-jellyfish-tentacles-water-beautiful-dark-4k.jpg); */
+}
+
+.imagedivm3 {
+  background-image: url(https://www.desktophut.com/wp-content/uploads/2021/09/mpc-hc64_NZAGlbkYOa-1500x500.jpg);
+  height: 300px;
+  width: 6000px;
+  background-position: 100% 0%;
+  /* background-repeat: repeat-y; */
+}

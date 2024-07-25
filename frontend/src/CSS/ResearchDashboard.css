@@ -1,0 +1,41 @@
+.researchbody {
+  align-items: center;
+  background-color: rgb(253, 253, 253);
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+/* .image6 {
+  position: relative;
+  background-size: cover !important;
+  background-position: center top !important;
+  background-repeat: no-repeat !important;
+  height: 300px;
+  min-height: 250px;
+  width: 1400px;
+  border-style: solid;
+  border-width: 1px;
+} */
+
+.imagedivm {
+  background-image: url(https://zoo.sandiegozoo.org/sites/default/files/styles/hero_large_1920x1080/public/2019-01/hero-amurleopardcats_0.jpg?itok=DyDpSP8o);
+  height: 300px;
+  width: 6000px;
+  background-position: 95% 50%;
+  /* background-repeat: repeat-y; */
+}
+
+.topic {
+  margin: 75px;
+  padding-left: 200px;
+}
+.heading {
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+
+#containerMN {
+  background-image: url(../images/cheetah.jpg);
+}

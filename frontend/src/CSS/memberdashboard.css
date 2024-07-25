@@ -1,0 +1,143 @@
+#NudujaDash {
+  background-image: url(../images/nudujadash.jpg);
+  background-size: cover;
+}
+.prof-dashboard .bg_prof {
+  display: block;
+  position: relative;
+  top: -63px;
+  width: 20px;
+  float: right;
+  color: violet;
+  height: 500px;
+  background-position: center;
+  background-size: 85%;
+  background-repeat: no-repeat;
+  border-radius: 50px;
+  background-position-y: 110px;
+
+  mask: radial-gradient(
+        var(--r1, 100%) var(--r2, 50%) at top,
+        white 79.5%,
+        transparent 80%
+      )
+      top left,
+    radial-gradient(
+        var(--r1, 100%) var(--r2, 50%) at bottom,
+        transparent 79.5%,
+        white 80%
+      )
+      top center,
+    radial-gradient(
+        var(--r1, 100%) var(--r2, 50%) at top,
+        white 79.5%,
+        transparent 80%
+      )
+      top right;
+}
+.hero-prof {
+  display: block;
+  position: relative;
+  padding: 30px;
+  text-align: left;
+  position: absolute;
+  color: #7e6161;
+  top: 20px;
+  margin-left: 50px;
+  font-size: 100%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.profdashboard {
+  position: relative;
+  top: -270px;
+}
+
+#pgdb {
+  background-color: rgb(54, 9, 34);
+}
+
+#profguideheading {
+  font-size: 72px;
+  color: white;
+}
+#CustomersN {
+  font-family: Arial, sans-serif;
+  width: 80%;
+  border: 5px solid black;
+  -moz-border-radius: 6px;
+  margin: 0 auto;
+  margin-top: 140px;
+  background-color: white;
+}
+
+#NudujaT {
+  opacity: 80%;
+  margin: 0 auto;
+}
+
+.table-bordered > thead > tr > th,
+.table-bordered > tbody > tr > th,
+.table-bordered > tfoot > tr > th,
+.table-bordered > thead > tr > td,
+.table-bordered > tbody > tr > td,
+.table-bordered > tfoot > tr > td {
+  border: 0.3px solid;
+}
+
+#CustomersN th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: rgb(68, 66, 66);
+  color: white;
+  margin-left: 0%;
+  font-size: larger;
+}
+#CustomersN tr:hover {
+  background-color: #000000;
+  color: white;
+}
+/* Header Styling */
+.headerprofile {
+  padding: 20px;
+  text-align: center;
+  color: rgb(160, 56, 56);
+  font-size: 30px;
+  background-position-y: 5px;
+}
+/* Body Styling */
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+#legendanchor a:hover {
+  color: 'white';
+}
+
+#Nbtns {
+  border-style: dashed;
+  border-width: 1px;
+  width: 80%;
+  display: 'inline';
+  margin: 0 auto;
+  margin-top: -200px;
+  margin-bottom: 100px;
+}
+
+#NH1 {
+  float: 'left';
+}
+
+#Nreport {
+  float: 'right';
+}
+
+#NudujaEdit {
+  margin-top: -24px;
+  background: linear-gradient(132deg, #132c0e 0%, #005020 80%);
+  background-size: 500% 400%;
+  animation: gradient 5s ease infinite;
+  height: 950px;
+}

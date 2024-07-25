@@ -1,0 +1,69 @@
+ .CreateMedicalBody {
+    align-items: center;
+    /* background-color: rgb(253, 253, 253); */
+    /* display: flex;
+    justify-content: center;
+    height: 100vh; */
+    background: linear-gradient(132deg, #0d2409 0%, #005020 80%);
+  background-size: 500% 400%;
+  animation: gradient 5s ease infinite;
+  
+  }  
+  
+  /* .image4 {
+    position: relative;
+    background-size: cover !important;
+    background-position: center top !important;
+    background-repeat: no-repeat !important;
+    margin-top: 10px;
+    height: 350px;
+    min-height: 250px;
+    width: 700px; */
+    
+    
+
+
+    .imagemed {
+    background-image: url("../images/ZooMelaka.png");
+    position: relative;
+    background-size: cover !important;
+    /* background-position: center top !important; */
+    background-repeat: no-repeat !important;
+    margin-top: 10px;
+    height: 300px;
+    min-height: 250px;
+    margin-left:150px;
+    width: 1200px;
+    margin-bottom:10px;
+    
+  }
+
+
+  .formbody{
+    width:500px;
+          
+  }
+
+  .topic{
+   margin :75px;
+   padding-left:200px;
+  }
+
+  .titlepage{
+    justify-content: center;
+  align-items: center;
+  margin: auto;
+   }
+
+   #RandiCreaTit{
+     color:white;
+   }
+
+   #RandiForm1{
+    color:white;
+    margin-left: 150px;
+   }
+
+   #randimal{
+    margin-left: 150px;
+   }
